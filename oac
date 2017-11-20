@@ -1,0 +1,1 @@
+curl -H 'Authorization: GenieKey c76d44a4-7e64-4419-bfa7-2141622faa3c' 'https://api.opsgenie.com/v2/account'
